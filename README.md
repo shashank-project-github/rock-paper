@@ -16,5 +16,5 @@ This project implements the classic Rock Paper Scissors game where the user can 
 
 
 ## Screenshot
-![App Screenshot](images/rock-paper (1).png)
+![App Screenshot](images/rock-paper(1).png)
 
